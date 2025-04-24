@@ -13,6 +13,12 @@
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.satisfy-text {
+  font-family: 'Satisfy', cursive;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
